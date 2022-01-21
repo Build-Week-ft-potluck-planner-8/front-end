@@ -1,4 +1,4 @@
-# Getting Started Poltluck Planner
+# Getting Started Potluck Planner
 ![image](../potluck-planner/src/assets/Images/Login-background.jpg)
 
 
